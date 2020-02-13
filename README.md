@@ -17,8 +17,8 @@ We have performed modelling with ExtraTrees, Random Forest, Support Vector Machi
 
 ## Process
 
-1. Exploratory Data Analysis
-2. Feature Engineering
+1. Exploratory Data Analysis /Featuring Engineering (Train, Test)
+2. Exploratory Data Analysis /Featuring Engineering (Weather)
 3. Modelling
 4. Model Evaluation
 5. Conclusion
