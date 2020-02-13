@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-
+We are a team of data scientist and business analysts from DSI Vector Control. In this project, we will be investigating West Nile Virus(WNV) and predicting the presence of WNV in respective trap locations. In addition, we have also conducted a cost benefit analysis proposal to demostrate the importance of mosquitoes control and its benefits in terms of cost.
 
 ## Executive Summary
 
@@ -14,6 +14,8 @@ We have performed modelling with ExtraTrees, Random Forest, Support Vector Machi
 | :------------------------: | :--------: | :-----------: | :-----: | :---: |
 |       ROC-AUC Score        |   0.745    |     0.737     |  0.724  | 0.715 |
 | Performance on Unseen Data |   0.687    |     0.669     |  0.683  | 0.642 |
+
+
 
 
 
@@ -42,7 +44,11 @@ Based on our study, we had a reasonable prediction of WNV presence by trap. By p
 
 
 
+## Data Dictionary
 
+
+
+[Data dictionary](https://github.com/alantancr/project4/blob/master/documents/noaa_weather_qclcd_documentation.pdf)
 
 
 
