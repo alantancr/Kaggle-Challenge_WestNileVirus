@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-We are a team of data scientist and business analysts from DSI Vector Control. In this project, we will be investigating West Nile Virus(WNV) and predicting the presence of WNV in respective trap locations. In addition, we have also conducted a [cost benefit analysis](https://github.com/alantancr/project4/blob/master/documents/Cost%20Benefit%20Analysis%20of%20Aerial%20Spraying.pdf) proposal to demostrate the importance of mosquitoes control and its benefits in terms of cost.
+We are a team of data scientist and business analysts from DSI Vector Control. In this project, we will be investigating West Nile Virus(WNV) and predicting the presence of WNV in respective trap locations. In addition, we have also conducted a [cost benefit analysis](../documents/Cost Benefit Analysis of Aerial Spraying.pdf) proposal to demostrate the importance of mosquitoes control and its benefits in terms of cost.
 
 ## Executive Summary
 
